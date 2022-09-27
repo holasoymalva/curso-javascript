@@ -1,4 +1,4 @@
-# Cursos Javascript
+# Cursos de Javascript
 
 ## Author
 
