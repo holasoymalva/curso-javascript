@@ -24,7 +24,10 @@
 
 ## Proyects
 
-- [Tik Tak Toe 🪨 🧻 ✂️ ]()
+- [ Tik Tak Toe 🪨 🧻 ✂️ ](https://codepen.io/malvabombom/pen/OJZzrPL)
+- [ Battleship 🎮 ](https://codepen.io/malvabombom/pen/JjvMwov)
+- [ memorama 🎮 ](https://codepen.io/malvabombom/pen/dyeJwPg)
+- [ Pomodoro 🍅 ](https://codepen.io/malvabombom/pen/GRdyXLZ)
 
 ## Author
 
