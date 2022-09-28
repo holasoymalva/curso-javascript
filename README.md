@@ -1,18 +1,15 @@
-# Cursos de Javascript 🍋
-
-[![es]](./README.es.md)
+# Javascript Course 🍋
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Content](#content)
+- [Contents](#contents)
 - [Builded with](#buided-with)
-- [Games](#games)
-- [Other features](#other-features)
+- [Projects](#projects)
 
 ## Introduction
 
-## Content
+## Contents
 
 
 ## Builded with
@@ -22,7 +19,7 @@
 - ![js]
 
 
-## Proyects
+## Projects
 
 - [ Tik Tak Toe 🪨 🧻 ✂️ ](https://codepen.io/malvabombom/pen/OJZzrPL)
 - [ Battleship 🎮 ](https://codepen.io/malvabombom/pen/JjvMwov)
