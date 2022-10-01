@@ -1,5 +1,7 @@
 # Javascript Course 🍋
 
+[![es]](./README.es.md)
+
 ## Introduction
 
 In the following repository you will find examples, demos and practice exercises to review various javascript topics.
