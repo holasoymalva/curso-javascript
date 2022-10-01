@@ -1,6 +1,6 @@
 # Curso de Javascript  🍋
 
-[![es]](./README.es.md)
+[![en]](./README.en.md)
 
 ## Introducción
 
