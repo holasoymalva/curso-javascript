@@ -36,7 +36,7 @@ Creado por Leon Martin( [malvabombom](https://github.com/malvabombom) ).
 Gracias por leer. <3
 
 
-[es]: https://img.shields.io/badge/README-Español-red
+[en]: https://img.shields.io/badge/README-English-blue
 [ny]: https://api.netlify.com/api/v1/badges/96b2ac8e-9256-4e8c-a504-b8a8c8f247d8/deploy-status
 [css3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [sass]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
