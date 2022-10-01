@@ -2,16 +2,16 @@
 
 [![en]](./README.en.md)
 
-## Introducción
+## Introduccion
 
 En el siguiente repositorio encontrarás ejemplos, demos y ejercicios de práctica para repasar temas diversos de javascript
 
 ## Tabla de contenidos
 
-- [Introduction](#introduction)
-- [Builded with](#buided-with)
-- [Contents](#contents)
-- [Projects](#projects)
+- [Introduccion](#introduccion)
+- [Hecho con](#hecho-con)
+- [Contenidos](#contenidos)
+- [Proyectos](#proyectos)
 
 ## Hecho con
 
