@@ -1,39 +1,39 @@
-# Javascript Course 🍋
+# Curso de Javascript  🍋
 
 [![es]](./README.es.md)
 
-## Introduction
+## Introducción
 
-In the following repository you will find examples, demos and practice exercises to review various javascript topics.
+En el siguiente repositorio encontrarás ejemplos, demos y ejercicios de práctica para repasar temas diversos de javascript
 
-## Table of Contents
+## Tabla de contenidos
 
 - [Introduction](#introduction)
 - [Builded with](#buided-with)
 - [Contents](#contents)
 - [Projects](#projects)
 
-## Builded with
+## Hecho con
 
 - ![html5]
 - ![sass]
 - ![js]
 
 
-## Projects
+## Proyectos
 
 - [ Tik Tak Toe 🪨 🧻 ✂️ ](https://codepen.io/malvabombom/pen/OJZzrPL)
 - [ Battleship 🎮 ](https://codepen.io/malvabombom/pen/JjvMwov)
 - [ Memorama 🎮 ](https://codepen.io/malvabombom/pen/dyeJwPg)
 - [ Pomodoro 🍅 ](https://codepen.io/malvabombom/pen/GRdyXLZ)
 
-## Author
+## Autor
 
-Created by Leon Martin( [malvabombom](https://github.com/malvabombom) ).
+Creado por Leon Martin( [malvabombom](https://github.com/malvabombom) ).
 
 [![in]][in-link] [![ig]][ig-link] [![tt]][tt-link] [![coffee]][coffee-link]
 
-Thank you for reading. <3
+Gracias por leer. <3
 
 
 [es]: https://img.shields.io/badge/README-Español-red
