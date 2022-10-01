@@ -1,16 +1,15 @@
 # Javascript Course 🍋
 
+## Introduction
+
+In the following repository you will find examples, demos and practice exercises to review various javascript topics.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Contents](#contents)
 - [Builded with](#buided-with)
+- [Contents](#contents)
 - [Projects](#projects)
-
-## Introduction
-
-## Contents
-
 
 ## Builded with
 
