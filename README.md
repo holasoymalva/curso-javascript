@@ -26,6 +26,7 @@ En el siguiente repositorio encontrarás ejemplos, demos y ejercicios de prácti
 - [ Battleship 🎮 ](https://codepen.io/malvabombom/pen/JjvMwov)
 - [ Memorama 🎮 ](https://codepen.io/malvabombom/pen/dyeJwPg)
 - [ Pomodoro 🍅 ](https://codepen.io/malvabombom/pen/GRdyXLZ)
+- [ Lista de tareas 🖍 ](https://codepen.io/malvabombom/pen/GRdyXLZ)
 
 ## Autor
 
