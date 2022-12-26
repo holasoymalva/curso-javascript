@@ -6,7 +6,32 @@
 
 En el siguiente repositorio encontrarás ejemplos, demos y ejercicios de práctica para repasar temas diversos de javascript
 
-## Tabla de contenidos
+## Temario
+
+* ¿Que es Javascript y su relacion con el desarrollo web?
+* Sintaxis y primeros pasos con Javascript
+* Variables
+* Control de flujos
+* Ciclos/Iteraciones
+* Programación con funciones
+* Objetos
+* Arreglos
+* Programacion Orientada a Objertos con Javascript
+* Introduccion al Dom 
+* Manipulacion del Dom
+* Eventos
+* Storage
+* Json
+* Librerias
+* Promesas
+* Asinconia
+* Fetch
+* Consumo de datos
+* Programacion funcional
+* Funciones de orden superior
+* introduccion a los Frameworks de Javascript
+
+## Recursos
 
 - [Introduccion](#introduccion)
 - [Hecho con](#hecho-con)
